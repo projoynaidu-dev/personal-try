@@ -1,2 +1,2 @@
 # personal-try
-hhszhjdsds
+my frist setup
